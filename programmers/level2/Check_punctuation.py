@@ -1,5 +1,5 @@
 # 22.11.24
-# Programmers - Checking punctuation(괄호 회전하기)
+# Programmers - Checking punctuation(괄호 확인하기)
 # https://school.programmers.co.kr/learn/courses/30/lessons/12909
 
 def solution(s):
